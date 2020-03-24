@@ -1,0 +1,23 @@
+
+body {
+	margin: 0;
+}
+
+.worm {
+	position: relative;
+}
+
+.blue-joint {
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+	background-color: #08F;
+	position: absolute;
+}
+
+.blue-segment {
+	width: 25px;
+	height: 20px;
+	background-color: #08F;
+	position: absolute;
+}
